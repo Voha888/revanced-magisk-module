@@ -4,7 +4,7 @@ logging-to-file = true        # enables logging of every patch process to a sepe
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1             # max number of concurrent building jobs
 build-mindetach-module = true
-patches-version = "v2.160.0" # locks the patches version. default: latest available
+patches-version = "v2.100.3" # locks the patches version. default: latest available
 
 # add 'enabled = false' for not patching a specific app
 [YouTube]
